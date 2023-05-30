@@ -1,0 +1,17 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// fontawesome
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+//Toastr
+@import "~toastr/toastr";
+// Bootstrap
+// Webpack example
+@import '~bootstrap';
+@import '~bootstrap-vue';
+//Admin Lte
+@import '~admin-lte/dist/css/adminlte.min.css';
